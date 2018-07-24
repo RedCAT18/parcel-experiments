@@ -1,0 +1,19 @@
+{
+  "name": "parcel-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RedCAT18/parcel-experiments",
+  "author": "RedCAT <akaineko18@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
