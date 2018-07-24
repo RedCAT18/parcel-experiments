@@ -6,7 +6,7 @@ Setting up a React project with Parcel
 
 - React
 - ES6 with Babel
-- SCSS
+- SCSS => css
 - CSS modules
 - Typography.js
 - Build for production
